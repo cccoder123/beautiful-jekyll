@@ -35,7 +35,7 @@ round-avatar: true
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-<FORM NAME="myForm">
+
 <INPUT TYPE="button" NAME="myButton" VALUE="Generate account!"
 onClick="rand_link()">
 </FORM>
